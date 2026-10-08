@@ -1,0 +1,41 @@
+{
+  "colorPalette": "rose-pink",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.21.0"
+  },
+  "entries": [
+    {
+      "id": "20261007-182412-nep0",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-10-08T00:24:12.000Z",
+      "dateEnd": "2026-10-08T01:32:31.095Z",
+      "dateLabel": "10/7/2026, 6:24:12 PM - 10/7/2026, 7:32:31 PM",
+      "url": "https://fibbs23.github.io/Fafo-October/?report=20261007-182412-nep0",
+      "publishedBy": "Fibbs23",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 58
+      }
+    }
+  ]
+}
