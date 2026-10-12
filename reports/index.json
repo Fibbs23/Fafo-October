@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.21.0"
+    "version": "3.22.3"
   },
   "entries": [
+    {
+      "id": "20261011-175246-fawd",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-10-11T23:52:46.000Z",
+      "dateEnd": "2026-10-12T00:47:13.570Z",
+      "dateLabel": "10/11/2026, 5:52:46 PM - 10/11/2026, 6:47:13 PM",
+      "url": "https://fibbs23.github.io/Fafo-October/?report=20261011-175246-fawd",
+      "publishedBy": "Fibbs23",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 47
+      }
+    },
     {
       "id": "20261007-182412-nep0",
       "title": "Tilted Illusion",
