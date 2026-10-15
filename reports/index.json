@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261014-182600-pqv9",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-10-15T00:26:00.000Z",
+      "dateEnd": "2026-10-15T01:40:03.458Z",
+      "dateLabel": "10/14/2026, 6:26:00 PM - 10/14/2026, 7:40:03 PM",
+      "url": "https://fibbs23.github.io/Fafo-October/?report=20261014-182600-pqv9",
+      "publishedBy": "Fibbs23",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 58
+      }
+    },
     {
       "id": "20261013-181544-chw3",
       "title": "Lightspeed Jack",
